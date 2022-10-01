@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there, Welcome👋
 
-**BenedictaUche/BenedictaUche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Frontend Developer and Technical Writer who is currently enrolled in the ALX software engineering program. I enjoy building projects, writing, and sharing technical information.
 
