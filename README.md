@@ -10,7 +10,7 @@ I'm a Frontend Developer and Technical Writer who is currently enrolled in the A
 
 - 💼 Job Interests: Software Engineering, Frontend Development, Technical Writing(Intern or Junior level)
 
-- 📫 How to reach me: [benedictauche.onyebuchi@gmail.com](benedictauche.onyebuchi@gmail.com) [GitHub](https://www.linkedin.com/in/benedicta-onyebuchi) [Twitter](https://twitter.com/Benny_dicta1)
+- 📫 How to reach me: [benedictauche.onyebuchi@gmail.com](benedictauche.onyebuchi@gmail.com) [Linkedin](https://www.linkedin.com/in/benedicta-onyebuchi) [Twitter](https://twitter.com/Benny_dicta1)
 
 - 😄 Pronouns: She/Her
 
