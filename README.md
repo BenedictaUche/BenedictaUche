@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in buil
 ## 📚 Recent Blog Posts
 
 - [Slice and Splice: Let's Break It Down Like I'm Twelve](https://techwriterb.hashnode.dev/slice-and-splice-lets-break-it-down-like-im-twelve)
-- [How to implement a search bar functionality using the useState hook]([URL](https://techwriterb.hashnode.dev/how-to-implement-a-search-bar-functionality-using-the-usestate-hook))
+- [How to implement a search bar functionality using the useState hook](https://techwriterb.hashnode.dev/how-to-implement-a-search-bar-functionality-using-the-usestate-hook)
 
 ## 🤝 Let's Connect
 
@@ -47,8 +47,3 @@ Connect with me and let's collaborate on exciting projects:
 [![Twitter](https://img.shields.io/badge/Twitter-Benny_dicta1-blue?style=flat&logo=twitter)](https://twitter.com/Benny_dicta1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-[YourWebsite]-purple?style=flat)](https://www.benedicta-onyebuchi.vercel.app)
 
-
-<img
-     align="center"
-     src="https://github-readme-stats.vercel.app/api/?username=BenedictaUche&theme=dracula"
-/>
