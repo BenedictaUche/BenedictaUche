@@ -45,5 +45,5 @@ Connect with me and let's collaborate on exciting projects:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benedicta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benedictaonyebuchi)
 [![Twitter](https://img.shields.io/badge/Twitter-Benny_dicta1-blue?style=flat&logo=twitter)](https://twitter.com/Benny_dicta1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-[YourWebsite]-purple?style=flat)](https://www.benedicta-onyebuchi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://www.benedicta-onyebuchi.vercel.app-purple?style=flat)](https://www.benedicta-onyebuchi.vercel.app)
 
