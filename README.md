@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in buil
 
 ## 🚀 About Me
 
-## About Me
-
 - 🌱 I’m currently enhancing my skills in front-end development and exploring new technologies.
 
 - 💬 Ask me about HTML, CSS, JavaScript, React, MySQL, Figma, or anything tech-related!
