@@ -1,6 +1,6 @@
 # Hi there, I'm Benedicta 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with experience in building dynamic web applications using HTML, CSS, JavaScript, React, and Next.js. I also love working with databases, particularly MySQL. Through my repositories, you'll find a collection of projects, contributions, and learning experiences. Feel free to explore, collaborate, and learn together.
+Welcome to my GitHub profile! I'm a passionate developer with experience in building dynamic web applications using HTML, CSS, JavaScript, React, Firebase and Next.js. Through my repositories, you'll find a collection of projects, contributions, and learning experiences. Feel free to explore, collaborate, and learn together.
 
 ## 🚀 About Me
 
