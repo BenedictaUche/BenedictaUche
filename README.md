@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in buil
 
 - 🌱 I’m currently enhancing my skills in front-end development and exploring new technologies.
 
-- 💬 Ask me about HTML, CSS, JavaScript, React, MySQL, Figma, or anything tech-related!
+- 💬 Ask me about HTML, CSS, JavaScript, React, Firebase, Figma, or anything tech-related!
 
 - 💼 Job Interests: Software Engineering, Frontend Development, Technical Writing(Intern or Junior level)
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in buil
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=success)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=success)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=success)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=success)
+![Firebase](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=mysql&logoColor=white&color=success)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=success)
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=success)
 
