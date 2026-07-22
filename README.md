@@ -24,6 +24,7 @@ Frontend developer based in Lagos, Nigeria, with about 3 years of experience bui
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-009688?style=flat&logo=astro&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -42,12 +43,12 @@ Check my pinned repos below for the code.
 - **Prise Africa** — School ERP and payments platform
 - **Phace Company / Ectype** — Multi-account trading platform
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenedictaUche&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictaUche&layout=compact&theme=radical)
 
-## 📚 Writing
+## Writing
 
 I write about real engineering work on [Hashnode](https://techwriterb.hashnode.dev):
 - [Slice and Splice: Let's Break It Down Like I'm Twelve](https://techwriterb.hashnode.dev/slice-and-splice-lets-break-it-down-like-im-twelve)
@@ -56,4 +57,4 @@ I write about real engineering work on [Hashnode](https://techwriterb.hashnode.d
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benedicta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benedictaonyebuchi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-benedicta--onyebuchi.vercel.app-purple?style=flat)](https://www.benedicta-onyebuchi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-benedicta--onyebuchi.vercel.app-purple?style=flat)](https://www.benedictaonyebuchi.site)
